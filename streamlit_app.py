@@ -5,4 +5,4 @@ streamlit.header('Breakfast Menu')
 
 streamlit.text('Omega3 & Blueberry oatmeal')
 streamlit.text('Kale, Spinach and Rocket smoothie')
-streamit.text('Hard boiled free renge egg')
+streamlit.text('Hard boiled free renge egg')
