@@ -1,1 +1,2 @@
-Create the main python file
+import streamlit
+streamlit.title('India is on the Moon')
